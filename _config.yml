@@ -1,8 +1,8 @@
 # Site settings
 # in the templates available like {{ site.myvariable }}.
 title: Turmalina Negra
-email: turmalinanegra61@gmail.com
-brand: Negra
+email: turmalinanegra
+brand: Turmalina Negra
 headline: Roupas feitas com Amor
 description: > # this means to ignore newlines until "baseurl:"
   New Site

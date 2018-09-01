@@ -3,12 +3,12 @@
 title: Turmalina Negra
 email: turmalinanegra@gmail.com
 brand: Turmalina Negra
-headline: Roupas feitas com Amor
+headline: Moda Energética
 description: > # this means to ignore newlines until "baseurl:"
   New Site
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://turmalinanegra.github.io" # the base hostname & protocol for your site
-copyright: Feito com Amor.
+copyright: Site feito com ♥
 
 # Build settings
 markdown: kramdown

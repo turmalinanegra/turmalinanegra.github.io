@@ -1,7 +1,7 @@
 # Site settings
 # in the templates available like {{ site.myvariable }}.
 title: Turmalina Negra
-email: turmalinanegra
+email: turmalinanegra@gmail.com
 brand: Turmalina Negra
 headline: Roupas feitas com Amor
 description: > # this means to ignore newlines until "baseurl:"
@@ -17,7 +17,7 @@ markdown: kramdown
 snapwidget: 247552
 
 # Contacts
-email: turmalinanegra61@gmail.com
+email: turmalinanegra61
 phone: +55-11-997328963
 
 # Tracking

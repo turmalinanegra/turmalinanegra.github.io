@@ -1,6 +1,6 @@
 # Site settings
 # in the templates available like {{ site.myvariable }}.
-title: Turmalina Negra
+title: Turmalina
 email: turmalinanegra61@gmail.com
 brand: Turmalina Negra
 headline: Roupas feitas com Amor
@@ -22,4 +22,3 @@ phone: +55-11-997328963
 
 # Tracking
 googleAnalitycsID: UA-83933844-1
-
